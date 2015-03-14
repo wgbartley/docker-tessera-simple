@@ -2,7 +2,7 @@
 
 A simple Docker container for
 [Tessera](https://github.com/urbanairship/tessera), which runs Tessera
-out of the `master` branch on github with the demo dashboards
+out of the `development` branch on github with the demo dashboards
 installed.
 
 Starting this container will bind the following ports by default:
